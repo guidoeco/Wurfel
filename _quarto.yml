@@ -1,8 +1,25 @@
 project:
   type: website
+  render:
+    - index.qmd
+    - pydemo.qmd
   output-dir: docs
-execute:
-  freeze: auto
+
+website:
+  title: "testsite"
+  navbar:
+    left:
+      - href: pydemo.qmd
+        text: "python demo"
+
 format: html
 website:
-  site-url: "<YOUR_URL_HERE>" # makes site links work on your remote site
+  site-url: "https://guidoeco.github.io/Wurfel/" # makes site links work on your remote site
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+execute:
+  freeze: auto
