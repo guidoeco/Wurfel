@@ -4,6 +4,6 @@
     "href": "index.html",
     "title": "Hello Quarto CI",
     "section": "",
-    "text": "Setting up CI for quarto website build & publish.\n\n\n\nworkflow picture"
+    "text": "Setting up CI for quarto website build & publish.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit\n\n\n\nworkflow picture"
   }
 ]
