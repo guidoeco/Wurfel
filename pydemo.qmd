@@ -1,5 +1,6 @@
----
-title: "matplotlib demo"
+title: matplotlib demo
+resources:
+  - .nojekyll
 format:
   html:
     code-fold: true
