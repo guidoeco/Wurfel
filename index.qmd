@@ -6,4 +6,6 @@ resources:
 ---
 Setting up CI for quarto website build & publish.
 
+Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit
+
 ![workflow picture](image/badge.svg)
