@@ -1,1 +1,1 @@
-Sitemap: https://github.com/guidoeco/Wurfel/sitemap.xml
+Sitemap: <YOUR_URL_HERE>/sitemap.xml
