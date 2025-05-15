@@ -4,3 +4,5 @@ project:
 execute:
   freeze: auto
 format: html
+website:
+  site-url: "<YOUR_URL_HERE>" # makes site links work on your remote site
