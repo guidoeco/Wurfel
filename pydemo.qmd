@@ -1,9 +1,15 @@
+---
 title: matplotlib demo
+format:
+  html: default
+number-sections: true
+execute:
+  echo: false
 resources:
   - .nojekyll
-format:
-  html:
-    code-fold: true
+editor:
+  markdown:
+    wrap: sentence
 jupyter: python3
 ---
 
