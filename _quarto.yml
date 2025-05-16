@@ -18,7 +18,7 @@ website:
         text: "index"
       - href: pydemo.qmd
         text: "python demo"
-  site-url: "https://guidoeco.github.io/Wurfel/" # makes site links work on your remote site
+  site-url: "https://guidoeco@guidoeco.github.io/Wurfel/" # makes site links work on your remote site
 
 execute:
   freeze: auto
