@@ -25,8 +25,6 @@ jobs:
             pip install -r requirements.txt
         - name: check git environment
           run: |
-            git config user.name guidoeco
-            git remote set-url origin https://guidoeco@github.com/guidoeco/Wurfel.git
             git config --list
         - name: Set up Quarto
           uses: quarto-dev/quarto-actions/setup@v2
@@ -35,6 +33,6 @@ jobs:
         - name: Publish to GitHub Pages (and render)
           uses: quarto-dev/quarto-actions/publish@v2
           with:
-            target: gh-pages # renderred html files will be pushed here
+            target: gh-pages # rendered html files will be pushed here
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # this secret is always available for github actions
