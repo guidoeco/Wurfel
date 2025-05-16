@@ -25,6 +25,7 @@ jobs:
             pip install -r requirements.txt
         - name: check git environment
           run: |
+            git config user.name guidoeco
             git config --list
         - name: Set up Quarto
           uses: quarto-dev/quarto-actions/setup@v2
