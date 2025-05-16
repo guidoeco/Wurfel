@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "pydemo.html",
-    "href": "pydemo.html",
-    "title": "matplotlib demo",
-    "section": "",
-    "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\n\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hello Quarto CI",
     "section": "",
     "text": "Setting up CI for quarto website build & publish.\nNeque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit\nCi sono gli altri visti\n\n\n\nworkflow picture"
+  },
+  {
+    "objectID": "pydemo.html",
+    "href": "pydemo.html",
+    "title": "matplotlib demo",
+    "section": "",
+    "text": "For a demonstration of a line plot on a polar axis, see Figure 1.\n\n\n\n\n\nFigure 1: A line plot on a polar axis"
   }
 ]
